@@ -1,0 +1,13 @@
+.post-container {
+    border-bottom: 1px solid var(--neutral-lt);
+}
+.post-banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    background: rgba(0,0,0,.2);
+}
+.post-details {
+    margin: 2rem 0;
+}

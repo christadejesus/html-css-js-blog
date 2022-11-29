@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML/CSS/JS Blog Demo | Christa DeJesus</title>
+    <link rel="stylesheet" href="style.css" />
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+    <script src="script.js" defer></script>
+    <script src="components/header.js"></script>
+    <script src="components/footer.js"></script>
+    <script src="components/bio.js"></script>
+    <script src="components/social.js"></script>
+</head>
+
+<body>
+    <header-component></header-component>
+    <main class="main-content">
+        <section class="main-section">
+            <article>
+                <h1>Welcome</h1>
+                <div class="heading-accent"></div>
+                <p>Thanks for stopping by my HTML/CSS/JS blog demo!</p>
+                <p>For more information about this project, jump over to the <a href="/about.html">About</a> page or...
+                </p>
+                <div class="btn-container">
+                    <a href="https://github.com/christadejesus/html-css-js-blog.git" target="_blank" rel="noreferrer"
+                        class="btn">View the GitHub Repo</a>
+                    <a href="https://christadejesus.com" target="_blank" rel="noreferrer" class="btn">Visit My
+                        Porfolio Website</a>
+                </div>
+                <hr>
+            </article>
+            <section>
+                <h2>recent articles</h2>
+                <div class="heading-accent"></div>
+                <article class="preview-card">
+                    <div class="preview-img">
+                        <a href="./blog/#post-3"><img src="./blog/images/image3.png" />
+                        </a>
+                    </div>
+                    <div class="preview-text">
+                        <header>
+                            <h3 class="preview-title">Awesome Title of Blog Post 3</h3>
+                            <div class="preview-details"><span>November 10, 2022 | by Christa DeJesus</span></div>
+                        </header>
+                        <p>Some brief excerpt or details about the blog article. This could be the first couple of
+                            sentences
+                            or a different description. <a href="./blog/#post-3" class="preview-link">Read more...
+                            </a></p>
+                    </div>
+                </article>
+                <article class="preview-card">
+                    <div class="preview-img">
+                        <img src="./blog/images/image2.png" />
+                    </div>
+                    <div class="preview-text">
+                        <header>
+                            <h3 class="preview-title">Awesome Title of Blog Post 2</h3>
+                            <div class="preview-details"><span>November 5, 2022 | by Christa DeJesus</span></div>
+                        </header>
+                        <p>Some brief excerpt or details about the blog article. This could be the first couple of
+                            sentences
+                            or a different description. <a href="./blog/#post-2" class="preview-link">Read more...
+                            </a></p>
+                    </div>
+                </article>
+                <article class="preview-card">
+                    <div class="preview-img">
+                        <img src="./blog/images/image1.png" />
+                    </div>
+                    <div class="preview-text">
+                        <header>
+                            <h3 class="preview-title">Awesome Title of Blog Post 1</h3>
+                            <div class="preview-details"><span>November 1, 2022 | by Christa DeJesus</span></div>
+                        </header>
+                        <p>Some brief excerpt or details about the blog article. This could be the first couple of
+                            sentences
+                            or a different description. <a href="./blog/#post-1" class="preview-link">Read more...
+                            </a></p>
+                    </div>
+                </article>
+            </section>
+            <bio-component></bio-component>
+            <social-component></social-component>
+        </section>
+    </main>
+    <footer-component></footer-component>
+</body>
+
+</html>
