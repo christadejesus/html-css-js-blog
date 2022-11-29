@@ -6,6 +6,7 @@ A minimal blog built with HTML, CSS, and JavaScript may not meet the usability a
 ## Highlights
 
 - Built using HTML/CSS/JS only
+- Responsive minimalist design
 - Features reusable web components
 - Single blog page with expandable posts
 - Blog post previews for home page
