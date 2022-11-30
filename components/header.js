@@ -92,11 +92,11 @@ headerTemplate.innerHTML = `
                 <i class="ri-menu-line menu-icon"></i>
             </button>
             <ul class="link-list" id="link-list">
-                <li><a href="/">home</a></li>
-                <li><a href="/blog/index.html">blog</a></li>
-                <li><a href="/shop.html">shop</a></li>
-                <li><a href="/about.html">about</a></li>
-                <li><a href="/connect.html">connect</a></li>
+                <li><a href="index.html">home</a></li>
+                <li><a href="blog/index.html">blog</a></li>
+                <li><a href="shop.html">shop</a></li>
+                <li><a href="about.html">about</a></li>
+                <li><a href="connect.html">connect</a></li>
             </ul>
         </nav>
     </header>
