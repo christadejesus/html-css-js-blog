@@ -65,7 +65,7 @@ bioTemplate.innerHTML = `
                 </div>
                 <div class="bio-text">
                     <h2>Meet the Author</h2>
-                    <p>Christa DeJesus is a web developer, graphic design enthusiast, dog mom, online course hoarder, and unrefined foodie in the USA. </p>
+                    <p>Lorem ipsum nulla minim quis duis occaecat consequat deserunt. Labore cillum non consequat in ex quis.</p>
                 </div>
             </article>
 

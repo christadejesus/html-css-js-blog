@@ -3,6 +3,7 @@
 [View the live demo](https://christadejesus.github.io/html-css-js-blog/index.html)
 
 A minimal blog built with HTML, CSS, and JavaScript may not meet the usability and scalability needs of most clients, but this project is meant to showcase that it can be done!
+
 ## Highlights
 
 - Built using HTML/CSS/JS only

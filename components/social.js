@@ -73,11 +73,11 @@ socialTemplate.innerHTML = `
     <article class="social wrapper">
     <h2>Where to Connect</h2>
     <div class="heading-accent"></div>
-        <p>If you would like to follow along with this project or view more of my development work, visit my main website at <a href="https://christadejesus.com" target="_blank" rel="noreferrer">christadejesus.com</a> or feel free to connect on any platform below.</p>
+        <p>If you would like to follow along with this project or view more of my development work, visit my main website at <a href="https://christadejesus.com" target="_blank" rel="noreferrer">christadejesus.com</a>.</p>
         <div class="social-links">
-            <a href="https://www.facebook.com/profile.php?id=100087719258118" target="_blank" rel="noreferrer"><i class="ri-facebook-fill social-icon"></i></a>
-            <a href="https://github.com/christadejesus" target="_blank" rel="noreferrer"><i class="ri-github-fill social-icon"></i></a>
-            <a href="https://www.linkedin.com/in/christa-dejesus" target="_blank" rel="noreferrer"><i class="ri-linkedin-fill social-icon"></i></a>
+            <a href="https://www.facebook.com" target="_blank" rel="noreferrer"><i class="ri-facebook-fill social-icon"></i></a>
+            <a href="https://instagram.com" target="_blank" rel="noreferrer"><i class="ri-instagram-fill social-icon"></i></a>
+            <a href="https://twitter.com" target="_blank" rel="noreferrer"><i class="ri-twitter-fill social-icon"></i></a>
         </div>
     </article>
 
